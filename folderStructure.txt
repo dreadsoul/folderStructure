@@ -1,4 +1,4 @@
-# binaries to be developed or used
+ # binaries to be developed or used
 bin/
 
 # softwares to be installed
