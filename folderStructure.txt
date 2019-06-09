@@ -17,6 +17,9 @@ docs/
 	personal/
 		master-degree/
 
+	important/?
+		santander/
+
 # media files
 media/
 	music/
