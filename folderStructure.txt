@@ -18,6 +18,9 @@ docs/
 		master-degree/
 
 	important/?
+		translation
+
+	very-important/?	
 		santander/
 
 # media files
