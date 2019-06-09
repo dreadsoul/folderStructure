@@ -1,0 +1,68 @@
+# binaries to be developed or used
+bin/
+
+# softwares to be installed
+software/
+
+# documents	
+docs/
+	psi/
+		urlaub/
+		dienstreise/
+		
+	uni-duisburg-essen/
+		subjects/
+		master-thesis/
+
+	personal/
+		master-degree/
+
+# media files
+media/
+	music/
+	images/
+	video/
+
+# project, I am working exclusively on
+proj/
+	schmidt-tl.de/
+	my-portfolio/
+
+
+# folder for development (e.g. repositories, code snippets etc.)
+dev/
+myDev/?
+	myRepo/
+		psiRepo/
+	
+	myCode/
+	code-space/
+    	examples/?
+		js-Tutorial/
+		java-EE-Tutorial/
+    
+		snippets/?
+			docker-commands.txt
+			git-commands.txt
+			bash-commands.txt
+
+	myTasks/?
+	
+	manuals/
+    		intelliJ-shortcuts.txt
+    		doNotForgetConer/
+      			notename-date.txt
+		
+# sources to be saved for further learn,revision
+myLearnSource/
+	git/
+	java/
+	python/
+	links-and-infos/?
+
+# third-party libraries, frameworks etc.
+myLib/?
+
+# folder for temporary tasks to be deleted later
+myTmp/
+  ogefpm-releases/
