@@ -31,38 +31,37 @@ proj/
 
 # folder for development (e.g. repositories, code snippets etc.)
 dev/
-myDev/?
-	myRepo/
+	repositories/
 		psiRepo/
 	
-	myCode/
-	code-space/
-    	examples/?
-		js-Tutorial/
-		java-EE-Tutorial/
+	code-playGround/
+		js-tutorials/
+		java-tutorials/
     
-		snippets/?
-			docker-commands.txt
-			git-commands.txt
-			bash-commands.txt
+	commands/
+		docker-commands.txt
+		git-commands.txt
+		bash-commands.txt
 
-	myTasks/?
+	tasks/
 	
 	manuals/
     		intelliJ-shortcuts.txt
-    		doNotForgetConer/
-      			notename-date.txt
+
+	doNotForgetConer/?
+		notename-date.txt
 		
 # sources to be saved for further learn,revision
-myLearnSource/
+resources/
 	git/
 	java/
 	python/
-	links-and-infos/?
+	links-and-infos/
 
 # third-party libraries, frameworks etc.
-myLib/?
+libs/
+	website-templates
 
 # folder for temporary tasks to be deleted later
-myTmp/
+tmp/
   ogefpm-releases/
