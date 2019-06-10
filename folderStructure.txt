@@ -71,3 +71,8 @@ libs/
 # folder for temporary tasks to be deleted later
 tmp/
   ogefpm-releases/
+  
+  
+toExplore/?
+
+myPlan/?
