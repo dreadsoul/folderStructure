@@ -76,3 +76,9 @@ tmp/
 toExplore/?
 
 myPlan/?
+
+backups/?
+
+protocoll/?
+	screenshots/ etc/
+
