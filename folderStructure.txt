@@ -13,14 +13,10 @@ docs/
 	uni-duisburg-essen/
 		subjects/
 		master-thesis/
-
+	# google-drive
 	personal/
 		master-degree/
-
-	important/?
-		translation
-
-	very-important/?	
+		translated/
 		santander/
 
 # media files
@@ -30,7 +26,8 @@ media/
 	video/
 
 # project, I am working exclusively on
-proj/
+# github
+projects/
 	schmidt-tl.de/
 	my-portfolio/
 
@@ -38,12 +35,13 @@ proj/
 # folder for development (e.g. repositories, code snippets etc.)
 dev/
 	repositories/
-		psiRepo/
 	
-	code-playGround/
+	# github
+	code-playground/
 		js-tutorials/
 		java-tutorials/
-    
+
+	# base github
 	commands/
 		docker-commands.txt
 		git-commands.txt
@@ -52,17 +50,17 @@ dev/
 	tasks/
 	
 	manuals/
-    		intelliJ-shortcuts.txt
+		intelliJ-shortcuts.txt
 
-	doNotForgetConer/?
-		notename-date.txt
+	# base github
+	snippets/
+		bash/
 		
 # sources to be saved for further learn,revision
 resources/
 	git/
+		links-and-infos.txt?
 	java/
-	python/
-	links-and-infos/
 
 # third-party libraries, frameworks etc.
 libs/
@@ -71,14 +69,10 @@ libs/
 # folder for temporary tasks to be deleted later
 tmp/
   ogefpm-releases/
-  
-  
-toExplore/?
 
-myPlan/?
+# base github
+explore/
+	java.txt
 
-backups/?
-
-protocoll/?
-	screenshots/ etc/
-
+backups/
+	screenshots/
